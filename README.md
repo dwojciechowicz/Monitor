@@ -8,3 +8,5 @@ Rozwiązanie problemu kosument-producent za pomocą monitora przy założeniach:
 -jest wielu konsumentów i wielu producentów
 
 -bufor ma określony rozmiar, którego nie można przekraczać
+
+Program wykorzystuje wątki.
